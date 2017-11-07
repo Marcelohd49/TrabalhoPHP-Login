@@ -1,0 +1,238 @@
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\ApplicationInsights.config
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Vendas.dll.config
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Vendas.dll
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Vendas.pdb
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.AI.Web.dll
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.Threading.Tasks.dll
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\System.IO.dll
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\System.Runtime.dll
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\System.Threading.Tasks.dll
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.AI.Web.xml
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.Threading.Tasks.xml
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\System.IO.xml
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\System.Runtime.xml
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\bin\System.Threading.Tasks.xml
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\obj\Debug\Vendas.csproj.App.config
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\obj\Debug\Vendas.csprojResolveAssemblyReference.cache
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\obj\Debug\Vendas.dll
+C:\Users\renato\Desktop\programaçao\trabalho\Vendas\obj\Debug\Vendas.pdb
+E:\trabalho\Vendas\bin\ApplicationInsights.config
+E:\trabalho\Vendas\bin\Vendas.dll.config
+E:\trabalho\Vendas\bin\Vendas.dll
+E:\trabalho\Vendas\bin\Vendas.pdb
+E:\trabalho\Vendas\bin\Microsoft.AI.Agent.Intercept.dll
+E:\trabalho\Vendas\bin\Microsoft.AI.DependencyCollector.dll
+E:\trabalho\Vendas\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\trabalho\Vendas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\trabalho\Vendas\bin\Microsoft.AI.Web.dll
+E:\trabalho\Vendas\bin\Microsoft.AI.WindowsServer.dll
+E:\trabalho\Vendas\bin\Microsoft.ApplicationInsights.dll
+E:\trabalho\Vendas\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\trabalho\Vendas\bin\Microsoft.Threading.Tasks.dll
+E:\trabalho\Vendas\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\trabalho\Vendas\bin\Microsoft.Threading.Tasks.Extensions.dll
+E:\trabalho\Vendas\bin\System.IO.dll
+E:\trabalho\Vendas\bin\System.Runtime.dll
+E:\trabalho\Vendas\bin\System.Threading.Tasks.dll
+E:\trabalho\Vendas\bin\Microsoft.AI.DependencyCollector.xml
+E:\trabalho\Vendas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\trabalho\Vendas\bin\Microsoft.AI.Web.xml
+E:\trabalho\Vendas\bin\Microsoft.AI.WindowsServer.xml
+E:\trabalho\Vendas\bin\Microsoft.ApplicationInsights.xml
+E:\trabalho\Vendas\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\trabalho\Vendas\bin\Microsoft.Threading.Tasks.xml
+E:\trabalho\Vendas\bin\Microsoft.Threading.Tasks.Extensions.xml
+E:\trabalho\Vendas\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\trabalho\Vendas\bin\System.IO.xml
+E:\trabalho\Vendas\bin\System.Runtime.xml
+E:\trabalho\Vendas\bin\System.Threading.Tasks.xml
+E:\trabalho\Vendas\obj\Debug\Vendas.csproj.App.config
+E:\trabalho\Vendas\obj\Debug\Vendas.csprojResolveAssemblyReference.cache
+E:\trabalho\Vendas\obj\Debug\Vendas.dll
+E:\trabalho\Vendas\obj\Debug\Vendas.pdb
+C:\Users\Vinicius\Desktop\trabalho\Vendas\obj\Debug\Vendas.csproj.App.config
+C:\Users\Vinicius\Desktop\trabalho\Vendas\obj\Debug\Vendas.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Desktop\trabalho\Vendas\obj\Debug\Vendas.dll
+C:\Users\Vinicius\Desktop\trabalho\Vendas\obj\Debug\Vendas.pdb
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\ApplicationInsights.config
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Vendas.dll.config
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Vendas.dll
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Vendas.pdb
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.AI.Web.dll
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\System.IO.dll
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\System.Runtime.dll
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\System.Threading.Tasks.dll
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.AI.Web.xml
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\System.IO.xml
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\System.Runtime.xml
+C:\Users\Vinicius\Desktop\trabalho\Vendas\bin\System.Threading.Tasks.xml
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\ApplicationInsights.config
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Vendas.dll.config
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Vendas.dll
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Vendas.pdb
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.AI.Web.dll
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.Threading.Tasks.dll
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\System.IO.dll
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\System.Runtime.dll
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\System.Threading.Tasks.dll
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.AI.Web.xml
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.Threading.Tasks.xml
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\System.IO.xml
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\System.Runtime.xml
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\bin\System.Threading.Tasks.xml
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\obj\Debug\Vendas.csproj.App.config
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\obj\Debug\Vendas.csprojResolveAssemblyReference.cache
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\obj\Debug\Vendas.dll
+C:\Users\renato\Desktop\Nova pasta\trabalho renato\trabalho\Vendas\obj\Debug\Vendas.pdb
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\obj\Debug\Vendas.csproj.App.config
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\obj\Debug\Vendas.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\obj\Debug\Vendas.dll
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\obj\Debug\Vendas.pdb
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\ApplicationInsights.config
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Vendas.dll.config
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Vendas.dll
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Vendas.pdb
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.AI.Web.dll
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\System.IO.dll
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\System.Runtime.dll
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\System.Threading.Tasks.dll
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.AI.Web.xml
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\System.IO.xml
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\System.Runtime.xml
+C:\Users\Vinicius\Desktop\BANCO\compartilhandoTrabalho\Trabalho Renato\trabalho_reserva\Vendas\bin\System.Threading.Tasks.xml
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\ApplicationInsights.config
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Vendas.dll.config
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Vendas.dll
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Vendas.pdb
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.AI.Web.dll
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\System.IO.dll
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\System.Runtime.dll
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\System.Threading.Tasks.dll
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.AI.Web.xml
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\System.IO.xml
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\System.Runtime.xml
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\bin\System.Threading.Tasks.xml
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\obj\Debug\Vendas.csproj.App.config
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\obj\Debug\Vendas.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\obj\Debug\Vendas.dll
+C:\Users\Vinicius\Desktop\trabalho_reserva\Vendas\obj\Debug\Vendas.pdb
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\ApplicationInsights.config
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Vendas.dll.config
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Vendas.dll
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Vendas.pdb
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.AI.Web.dll
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.Threading.Tasks.dll
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\System.IO.dll
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\System.Runtime.dll
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\System.Threading.Tasks.dll
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.AI.Web.xml
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.Threading.Tasks.xml
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\System.IO.xml
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\System.Runtime.xml
+C:\Users\renato\Desktop\trabalho com login\Vendas\bin\System.Threading.Tasks.xml
+C:\Users\renato\Desktop\trabalho com login\Vendas\obj\Debug\Vendas.csproj.App.config
+C:\Users\renato\Desktop\trabalho com login\Vendas\obj\Debug\Vendas.csprojResolveAssemblyReference.cache
+C:\Users\renato\Desktop\trabalho com login\Vendas\obj\Debug\Vendas.dll
+C:\Users\renato\Desktop\trabalho com login\Vendas\obj\Debug\Vendas.pdb

@@ -1,0 +1,33 @@
+﻿body {
+    background-color:burlywood;
+}
+#content{
+    width:1265px;
+   
+}
+
+#cabecalho{
+    height:250px;
+    background-color:white;
+}
+#menu{
+    height:120px;
+}
+#rodape{
+    background-color:white;
+}
+
+.tabela{
+    width:1265px;
+}
+
+.botao{
+    height:40px;
+    width:253px;
+    float: left;
+}
+
+.table{
+    width:100%;
+    height: 300px;
+}

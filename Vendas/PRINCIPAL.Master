@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PRINCIPAL.master.cs" Inherits="Vendas.PRINCIPAL" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="css/StyleSheet1.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        .auto-style1 {
+            width: 1265px;
+            height: 226px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="content">
+            <div id="cabecalho">
+                &nbsp;<img alt="" class="auto-style1" src="Imagens/11001860_617289011733503_8802711523241732381_n.jpg" /></div>
+            <div id="menu">
+                <asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSource1" Orientation="Horizontal">
+                </asp:Menu>
+                <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+            </div>
+            <div id="centro">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div id="rodape">
+                BEM VINDOS
+            </div>
+        </div>
+    </form>
+</body>
+</html>
